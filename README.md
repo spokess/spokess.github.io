@@ -35,14 +35,3 @@ spokes基本信息
 
 
 
-
-
-启动
-
-D:\myblog\docs>docsify s
-
-Serving D:\myblog\docs now.
-Listening at http://localhost:3000
-
-
-
