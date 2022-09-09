@@ -9,5 +9,5 @@
 - linux技术文档,华为数通技术分享.
 - Mail:pokes@163.com
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/)
+[CSDN](https://blog.csdn.net/annita2019)

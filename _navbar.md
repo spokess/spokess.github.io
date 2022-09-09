@@ -12,8 +12,8 @@
 * MySQL技术
 * 链接到我
   * [CSDN](https://blog.csdn.net/annita2019)
-  * [Github地址](https://github.com/YSGStudyHards)
-  * [Gitee地址](https://gitee.com/ysgdaydayup)
+  * [Github](https://github.com/spokess)
+  * [Gitee](https://gitee.com/)
 * 友情链接
   * [Docsify](https://docsify.js.org/#/)
   * [博客园](https://www.cnblogs.com/)
